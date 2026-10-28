@@ -80,10 +80,10 @@
 
 Research combining genetic optimization and neural networks for RSSI-guided localization in multi-UAV environments.
 
-- 🧠 Neural-network-based position estimation.
-- 🧬 Genetic optimization for localization.
-- 📡 RSSI-based wireless localization.
-- 🚁 Applications in autonomous multi-UAV systems.
+ 🧠 Neural-network-based position estimation.
+ 🧬 Genetic optimization for localization.
+ 📡 RSSI-based wireless localization.
+ 🚁 Applications in autonomous multi-UAV systems.
 
 <a href="https://ieeexplore.ieee.org/document/11037754">
   <img src="https://img.shields.io/badge/IEEE_Access-Read_Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Access publication"/>
@@ -93,11 +93,11 @@ Research combining genetic optimization and neural networks for RSSI-guided loca
 
 A 3D research simulation exploring UAV localization and rescue coordination in a simulated flood environment.
 
-- 🌐 3D multi-UAV environment.
-- 📡 RSSI-based localization concepts.
-- 🆘 Simulated flood rescue missions.
-- 🗺️ Research extensions for path planning and task allocation.
-- 🤝 Potential integration with cooperative multi-agent reinforcement learning.
+ 🌐 3D multi-UAV environment.
+ 📡 RSSI-based localization concepts.
+ 🆘 Simulated flood rescue missions.
+ 🗺️ Research extensions for path planning and task allocation.
+ 🤝 Potential integration with cooperative multi-agent reinforcement learning.
 
 <a href="https://github.com/abdur-rehman-khan/3D-Genetic-Neural-Fusion-for-Multi-UAV-Localization-and-Flood-Emergency-Response">
   <img src="https://img.shields.io/badge/GitHub-Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GenNFRescue repository"/>
@@ -107,22 +107,22 @@ A 3D research simulation exploring UAV localization and rescue coordination in a
 
 A simulation project exploring reinforcement learning for autonomous drone movement and fire-rescue scenarios.
 
-- 🚁 Autonomous navigation experiments.
-- 🔥 Dynamic fire and rescue-target scenarios.
-- 🧠 Reward-driven policy-learning concepts.
-- 🎮 Human-guided interaction and potential learning extensions.
-- 🤝 Future research directions in multi-agent rescue coordination.
+ 🚁 Autonomous navigation experiments.
+ 🔥 Dynamic fire and rescue-target scenarios.
+ 🧠 Reward-driven policy-learning concepts.
+ 🎮 Human-guided interaction and potential learning extensions.
+ 🤝 Future research directions in multi-agent rescue coordination.
 
 ### 🤖 4. Agentic AI & LLM Applications
 
 Research and development interests in intelligent applications using language models and agentic workflows.
 
-- 💬 Large Language Models (LLMs).
-- 🔗 LangChain and Langflow.
-- 📚 Retrieval-Augmented Generation (RAG).
-- 🛠️ Tool-using AI agents.
-- 🤝 Multi-agent workflows.
-- 🧑‍🤝‍🧑 Augmented Intelligence and human-AI decision support.
+ 💬 Large Language Models (LLMs).
+ 🔗 LangChain and Langflow.
+ 📚 Retrieval-Augmented Generation (RAG).
+ 🛠️ Tool-using AI agents.
+ 🤝 Multi-agent workflows.
+ 🧑‍🤝‍🧑 Augmented Intelligence and human-AI decision support.
 
 ---
 
@@ -195,16 +195,16 @@ Research and development interests in intelligent applications using language mo
 
 📄 **RSSI Guided Localization Using Genetic Neural Fusion in Multi-UAV Network**
 
-- Journal: IEEE Access
-- DOI: [10.1109/ACCESS.2025.3580475](https://doi.org/10.1109/ACCESS.2025.3580475)
+ Journal: IEEE Access
+ DOI: [10.1109/ACCESS.2025.3580475](https://doi.org/10.1109/ACCESS.2025.3580475)
 
 📄 **Improving UAV Performance in Disaster Scenario Using Deep Learning Enabled RSSI-Controlled Task Allocation**
 
-- Research area: Deep Learning, UAV task allocation, and disaster-response systems.
+ Research area: Deep Learning, UAV task allocation, and disaster-response systems.
 
 📄 **AGI-Enabled Robotics for Healthcare Industry**
 
-- Research area: AI-enabled robotics and healthcare applications.
+ Research area: AI-enabled robotics and healthcare applications.
 
 <a href="https://scholar.google.com/citations?user=VJGeMo4AAAAJ">
   <img src="https://img.shields.io/badge/Google_Scholar-View_All_Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar publications"/>
